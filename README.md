@@ -1,5 +1,11 @@
 # Stocks with strings
 
+## Where this came from
+
+Back around Covid I watched Bitcoin crash and Nvidia fall with it, right down to levels where I wanted to buy. That stuck with me. Crypto miners buy GPUs, so when crypto booms or busts, chip demand moves with it. I read crypto and chipmakers like Nvidia and AMD as complements, and with AI on the horizon Nvidia looked like an attractive bet.
+
+That was the spark for the question behind this repo. It is not proof of anything, crypto is not even a stock. It just made me want to know if you can tell substitutes from complements using market data.
+
 I want to know if two stocks are substitutes or complements, and whether
 you can actually tell that from market data instead of just guessing from
 what the companies do.
