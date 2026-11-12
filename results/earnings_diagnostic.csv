@@ -1,0 +1,13 @@
+pair,n,mean_other_resid,corr
+KO earns -> PEP,8,0.322,-0.397
+PEP earns -> KO,8,0.143,0.409
+V earns -> MA,8,0.577,0.575
+MA earns -> V,8,-0.221,0.544
+HD earns -> LOW,8,0.318,0.91
+LOW earns -> HD,8,-0.169,0.467
+NVDA earns -> TSM,8,-0.35,0.814
+TSM earns -> NVDA,8,-0.506,0.268
+AAPL earns -> TSM,8,1.202,-0.339
+TSM earns -> AAPL,8,-0.235,-0.76
+KO earns -> NVDA,8,-0.088,0.371
+NVDA earns -> KO,8,0.138,0.566
