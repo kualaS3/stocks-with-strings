@@ -1,0 +1,7 @@
+pair,prior,reading,match,shock_corr_avg,shock_corr_xy,shock_corr_yx,p_xy,p_yx,resid_corr_full,raw_corr,n_shocks
+KO/PEP,substitute,neutral (not significant),False,0.113,0.026,0.2,0.899,0.328,0.143,0.613,26
+V/MA,substitute,complement,False,0.858,0.902,0.813,0.0,0.0,0.76,0.892,26
+HD/LOW,substitute,complement,False,0.94,0.955,0.925,0.0,0.0,0.862,0.894,26
+NVDA/TSM,complement,complement,True,0.498,0.495,0.501,0.01,0.008,0.25,0.716,26
+AAPL/TSM,complement,neutral (not significant),False,-0.287,-0.137,-0.437,0.511,0.025,-0.134,0.271,26
+KO/NVDA,control,neutral (not significant),True,0.009,0.099,-0.08,0.651,0.696,0.046,-0.259,26
